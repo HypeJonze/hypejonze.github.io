@@ -143,13 +143,14 @@ section h2 {
 }
 
 section.success {
-    color: #7f8c8d;
+    color: #34495e; 
     width: 100%;
     background: url(http://24.media.tumblr.com/742371da9cf0ded64f4937eb54d7457d/tumblr_n6es0tRk5w1st5lhmo1_1280.jpg);
     margin: 0px auto;
     padding-top: 20px;
     background-size: cover;
 }
+
 
 @media(max-width:767px) {
     section {
